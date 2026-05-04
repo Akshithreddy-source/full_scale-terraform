@@ -27,6 +27,9 @@ Conditional logic:
 Add lifecycle rule
 * Prevent DB deletion
 
+running in vs code:
+<img width="1492" height="962" alt="image" src="https://github.com/user-attachments/assets/71629240-a5b5-48c1-a821-24d0bcfcf9be" />
+
 
 
 ec2 instance  <img width="959" height="437" alt="{BCB4620E-95AF-47A8-AD00-23D89365A46C}" src="https://github.com/user-attachments/assets/4d7ae4d6-4c4b-4d09-b638-e962c9acc207" />
